@@ -1,0 +1,6 @@
+# Extra packages to rerun the notebook locally (Colab already has these)
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scikit-learn>=1.3
+pyarrow>=14.0
