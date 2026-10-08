@@ -2,7 +2,7 @@
 
 A machine-learning model that warns **24 hours before** a machine fails, built on one year of hourly sensor data from a 100-machine fleet.
 
-**Live app:** _add your Streamlit link here_ · **Notebook:** [`notebooks/Pred_Maint.ipynb`](notebooks/Pred_Maint.ipynb)
+**Live app:** https://predictive-maintenance-early-warning-2gtyvgdjipcvgrusbjxniq.streamlit.app/ · **Notebook:** [`notebooks/Pred_Maint.ipynb`](notebooks/Pred_Maint.ipynb)
 
 | On four months of unseen data (Sep–Dec 2015) | |
 |---|---|
